@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">M6HW2</string>
+    <string name="title_activity_main_screen">MainScreen</string>
+    <string name="title_activity_detail_screen">DetailScreen</string>
+</resources>
